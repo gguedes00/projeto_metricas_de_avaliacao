@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi feito por conta de um desafio proposto plo bootcamp e calcula as principais métricas para avaliação de modelos de classificação de dados, incluindo acurácia, sensibilidade (recall), especificidade, precisão e F-score. Utiliza uma matriz de confusão como base para os cálculos, permitindo a análise do desempenho de modelos de machine learning.
+Este projeto foi feito por conta de um desafio proposto pelo  bootcamp e calcula as principais métricas para avaliação de modelos de classificação de dados, incluindo acurácia, sensibilidade (recall), especificidade, precisão e F-score. Utiliza uma matriz de confusão como base para os cálculos, permitindo a análise do desempenho de modelos de machine learning.
 
 
 ## Fórmulas Utilizadas
